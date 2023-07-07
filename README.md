@@ -1,4 +1,6 @@
-﻿# [<img src="/Logo/kavita.svg" width="32" alt="">]() Kavita
+## Good reference for project architeture
+
+ # [<img src="/Logo/kavita.svg" width="32" alt="">]() Kavita
 <div align="center">
 
 ![new_github_preview_stills](https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif)
